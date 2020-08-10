@@ -1,0 +1,11 @@
+{
+  "name": "debug-practice",
+  "version": "1.0.0",
+  "description": "debug practice",
+  "main": "my-buggy-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "warptrail",
+  "license": "ISC"
+}
